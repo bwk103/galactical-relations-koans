@@ -1,0 +1,2 @@
+      invoke  active_record
+   identical    db/migrate/20170220101027_create_table.rb
